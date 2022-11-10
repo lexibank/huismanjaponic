@@ -1,0 +1,111 @@
+Swadesh Item	Japanese	Romanisation	Notes
+1.SG		私		watashi	
+2.SG		貴方		anata	
+1.PL		私達		watashitachi	
+this1		これ		kore	
+this2		この		kono		attributive
+that1		それ		sore		medial
+that2		その		sono		medial; attributive
+that3		あれ		are		distal
+that4		あの		sono		distal; attributive
+who?		誰		dare	
+what?		何		nani	
+not		～ない		-nai	
+all		皆		mina	
+many		多い		ooi	
+one		一つ		hitotsu	
+two		二つ		futatsu	
+big		大きい		ookii	
+long		長い		nagai	
+small		小さい		chiisai	
+woman		女		onna	
+man		男		otoko	
+person		人		hito	
+fish		魚		uo	
+bird		鳥		tori	
+dog		犬		inu	
+louse		虱		shirami	
+tree		木		ki	
+seed		種		tane	
+leaf		葉		ha	
+root		根		ne	
+bark		皮		kawa	
+skin		肌		hada	
+flesh		肉		niku	
+blood		血		chi	
+bone		骨		hone	
+fat		油		abura	
+egg		卵		tamago	
+horn		角		tsuno	
+tail		尾		o	
+feather		羽		hane	
+hair		髪		kami	
+head		頭		atama	
+ear		耳		mimi	
+eye		目		me	
+nose		鼻		hana	
+mouth		口		kuchi	
+tooth		歯		ha	
+tongue		舌		shita	
+fingernail	爪		tsume	
+foot		足		ashi	
+knee		膝		hiza	
+hand		手		te	
+belly		腹		hara	
+neck		首		kubi	
+breasts		乳		chichi	
+heart		心		kokoro	
+liver		肝		kimo	
+to drink	食う		kuu	
+to eat		飲む		nomu	
+to bite		噛む		kamu	
+to see		見る		miru	
+to hear		聞く		kiku	
+to know		知る		shiru	
+to sleep	眠る		nemuru	
+to die		死ぬ		shinu	
+to kill		殺す		korosu	
+to swim		泳ぐ		oyogu	
+to fly		飛ぶ		tobu	
+to walk		歩く		aruku	
+to come		来る		kuru	
+to lie down	寝る		neru	
+to sit		座る		suwaru	
+to stand	立つ		tatsu	
+to give1	遣る		yaru	
+to give2	呉れる		kureru		respectful
+to say		言う		iu	
+sun		日		hi	
+moon		月		tsuki	
+star		星		hoshi	
+water		水		mizu	
+rain		雨		ame	
+stone		石		ishi	
+sand		砂		suna	
+soil		土		tsuchi	
+cloud		雲		kumo	
+smoke		煙		kemuri	
+fire		火		hi	
+ash		灰		hai	
+to burn		燃える		moeru	
+path		道		michi	
+mountain	山		yama	
+red1		赤		aka		noun
+red2		赤い		akai		adjective
+blue1		青		ao		noun
+blue2		青い		aoi		adjective
+yellow1		黄色		kiiro		noun
+yellow2		黄色い		kiiroi		adjective
+white1		白		shiro		noun
+white2		白い		shiroi		adjective
+black1		黒		kuro		noun
+black2		黒い		kuroi		adjective
+night		夜		yoru	
+hot		暑い		atsui	
+cold		寒い		samui	
+full		いっぱい		ippai	
+new		新しい		atarashii	
+good		良い		yoi	
+round		丸い		marui	
+to dry		乾く		kawaku	
+name		名前		namae	
